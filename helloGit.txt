@@ -1,3 +1,6 @@
 Version 0.1  git init 命令 生成本地仓库文件夹
 version 1.1  vim-helloGit.txt 修改code time:2020/9/4 将要add
+ HEAD
 version 1.2  提交到远程库 time:20200904 20:08
+Version 1.2  第二次修改，准备提交到远程库 time:2020/9/4 20:10
+e29e3cd3c9b72737cfd27865900ba4f400f4f66e
